@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together. Adding a line for rebasin example.
+This is a simple website project for showing how to use Git and Github together. Adding a line for rebasin example, more changes for myfeature breanch too.
 
 ## Introduction
 
